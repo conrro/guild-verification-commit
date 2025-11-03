@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-10-30T20:26:47.860Z
-Commit: Correct typo in configuration file
+Timestamp: 2025-11-03T21:40:24.505Z
+Commit: Fix CSS styling bug on mobile devices
